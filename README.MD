@@ -7,7 +7,7 @@
 - **Características Extraídas:** O descritor HOG extrai informações sobre a distribuição de gradientes e orientações locais das imagens, permitindo capturar detalhes de contornos e texturas que auxiliam na distinção entre as classes (por exemplo, "covid" vs "normal").
 
 ## Repositório do Projeto
-[Link do repositório do projeto](URL_DO_REPOSITORIO)
+[Link do repositório do projeto](https://github.com/jeffreyutfpr/ES48D-Processamento-de-Imagens-ES81)
 
 ## Classificador e Acurácia
 - **Classificador Clássico:** SVM com HOG  
